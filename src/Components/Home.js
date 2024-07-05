@@ -9,7 +9,7 @@ import {CiCoffeeCup} from "react-icons/ci";
 const Home = () => {
   return (
     <div >
-      <div className='HomePage'>
+      <div className='HomePage' style={{display: 'flex', justifyContent: 'center'}}>
 
         <div className='HomeText'>
           <h1>Hi There!</h1>
