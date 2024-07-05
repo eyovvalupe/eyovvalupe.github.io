@@ -15,7 +15,7 @@ const About = () => {
           <p>
             <p>
               {" "}
-              I have extensive experience in blockchain development for over 4
+              I have extensive experience in blockchain development for over 3
               years, specializing in platforms such as Ethereum and Hyperledger
               Fabric. On Ethereum, I have developed smart contracts using
               Solidity and integrated them with decentralized applications
