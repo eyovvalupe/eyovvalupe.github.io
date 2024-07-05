@@ -3,7 +3,7 @@ import Typewriter from  'typewriter-effect';
 
 const Typed = () => {
   return (
-    <div className="TypeEffect">
+    <div className="TypeEffect" style={{width: 1000 + 'px'}}>
       <Typewriter
         options={{
           strings: ['Senior Full Stack, Web3 and Blockchain Developer', ''],
