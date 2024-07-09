@@ -16,11 +16,11 @@ const About = () => {
             <p>
               {" "}
               I have extensive experience in blockchain development for over 3
-              years, specializing in platforms such as Ethereum and Hyperledger
-              Fabric. On Ethereum, I have developed smart contracts using
-              Solidity and integrated them with decentralized applications
+              years, specializing in platforms such as Ethereum, Polygon and Solana.
+              I have developed smart contracts using
+              Solidity and Rust, and integrated them with decentralized applications
               (DApps) using technologies like Web3.js for front-end interaction
-              and Truffle for testing and deployment. This includes projects
+              and tested and deploymented using Truffle and Anchor platform. This includes projects
               involving tokenization, decentralized finance (DeFi) applications,
               and supply chain transparency solutions.
             </p>
